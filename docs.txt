@@ -1,0 +1,8 @@
+// Registradores
+https://codebase64.org/doku.php?id=base:6502_registers
+
+// Instruction Set
+https://www.masswerk.at/6502/6502_instruction_set.html
+
+// Historical usage
+https://www.embeddedrelated.com/showarticle/1453.php
